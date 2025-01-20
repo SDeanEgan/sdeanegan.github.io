@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is my repository for updates about my current project.
 
-Maybe say a some things about yourself.
+Hit me up on discord if you like what you see here.
 
-Or maybe what you plan to blog about.
+Thanks for visiting!
