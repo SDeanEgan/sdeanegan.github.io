@@ -24,10 +24,6 @@ minima:
   skin: dark
 
 rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
     
 plugins:
   - jekyll-feed
