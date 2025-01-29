@@ -36,4 +36,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Project
+      tags: Other
