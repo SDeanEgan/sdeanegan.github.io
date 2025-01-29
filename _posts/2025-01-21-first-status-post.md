@@ -1,3 +1,6 @@
+---
+tags: Project
+---
 ## First Status Post
 
 This January I started a professional development course with CU Boulder, where I am currently earning a Bachelor of Science. This makes for the first of many posts serving as an update on my progress. The general form takes from the typical status update format for stand-up meetings (or scrums) found in the Agile project management methodology. This can keep updates concise, although to add some nicety I'll try and work the formatting into prose in the future. The course focuses students on a major project of our own development. As a consequence much of the early effort will be in determining what my project will actually be.
