@@ -4,6 +4,7 @@ title: Blog Archive
 ---
 
 {% assign sorted_tags = site.tags | sort: "size" | reverse %}
+
 {% for tag in sorted_tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
