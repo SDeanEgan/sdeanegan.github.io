@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 ---
 
-{% for tag in site.tags | reverse %}
+{% for tag in site.tags | sort | reverse %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
