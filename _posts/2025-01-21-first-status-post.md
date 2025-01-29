@@ -1,5 +1,5 @@
 ---
-tags: Rust Project
+tags: [Rust Project]
 ---
 ## First Status Post
 
