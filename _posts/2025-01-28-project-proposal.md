@@ -1,5 +1,5 @@
 ---
-tags: Project
+tags: Rust Project
 ---
 ## Project Proposal
 
