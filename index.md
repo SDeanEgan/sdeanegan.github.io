@@ -1,5 +1,5 @@
 ![banner image](/assets/images/chris-bray-red-crabs-banner.jpg)
-<p style="text-align: right;">Image courtesy of Chris Bray Photography</p>
+<div style="text-align: right"> Image courtesy of Chris Bray Photography </div>
 
 This is my repository for updates about my current project.
 
