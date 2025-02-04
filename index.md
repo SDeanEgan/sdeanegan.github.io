@@ -1,5 +1,5 @@
 ![banner image](/assets/images/chris-bray-red-crabs-banner.jpg)
-<div style="text-align: right; font-size: 0.7rem; margin-top: 0px; padding-top: 0px;"> 
+<div style="text-align: right; font-size: 0.6rem; margin-top: 0px; padding-top: 0px;"> 
   <a href="https://chrisbrayphotography.com/" target="_blank"> Image courtesy of Chris Bray Photography </a>
 </div>
 <br>
