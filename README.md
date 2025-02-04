@@ -1,3 +1,5 @@
+![banner image](../assets/images/chris-bray-red-crabs-banner.jpg)
+
 [Special Thanks to Chad Baldwin](https://chadbaldwin.net/) for making a handy template to get a page up and running. 
 
 ### Readme
