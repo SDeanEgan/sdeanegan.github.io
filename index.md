@@ -1,9 +1,5 @@
-<figure>
-  <img src="assets/images/example.gif" alt="Example GIF">
-    <figcaption>
-      <a href="https://chrisbrayphotography.com/" target="_blank">Courtesy of Chris Bray Photography</a>
-    </figcaption>
-</figure>
+![banner image](/assets/images/chris-bray-red-crabs-banner.jpg)
+<p style="text-align: right;">Image courtesy of Chris Bray Photography</p>
 
 This is my repository for updates about my current project.
 
