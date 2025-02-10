@@ -9,7 +9,7 @@ Thanks to a professional development course with CU Boulder, I'll be releasing b
 
 #### Posting info
 
-Blog posts are stored in the `_posts` folder, and you will see at least on file in there for the first blog post.
+Blog posts are stored in the `_posts` folder, and you will see at least one file in there for the first blog post.
 
 Let’s lay out some of the things you need to know about blogging with GitHub Pages:
 
