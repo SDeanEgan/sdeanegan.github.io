@@ -1,0 +1,13 @@
+---
+tags: [Rust Project]
+---
+## Fourth Status Post
+
+Chapters four, five and six made for a big increase in challenge. Four introduces the system for handling references, which Rust calls Ownership. The chapter itself is largely a sequence of scenarios which would constitute undefined behavior (also some which don't) and how principles like imposing a "lifetime" on variables and their objects combined with automatic deallocation and the partitioning of permissions like read or write prevent undefined behavior. I decided the chapter called for reading twice. Although doing so is actually encouraged in the chapter, this cost more time than I am technically supposed to be spending. I still think it was worth it! Thankfully, *the book* version offered by Brown includes "Ownership Inventories" which conclude some chapters to aid in applying the Ownership system as you learn further material. Chapters five and six cover structs, enums, and match expressions. Structs and enums serve as the primary composite data structures offered by Rust where we also consider tuples. Match expressions prove particularly effective for accommodating Ownership 
+requirements when working with enums. So, learning this was a great way to tie the week together. 
+
+Coming up now are chapters seven, eight, and nine. This is going to help me to more effectively engage with projects that require package management, make use of collections like vectors or hash maps (you may know them as dictionaries), and take on error handling. I'm particularly interested to learn error handling with Rust, as it gets glossed over easily in introductory courses but is important with software of real, practical use. 
+
+This week doesn't appear to change much, though there's always room for improving the process. Material becoming more challenging is not itself an impediment, but a means to learning. To better move forward I've made sure to look ahead at the relative length of sections and consider whether a particular chapter constitutes a spike in difficulty. I'm thinking that for the time being, even though a new system of memory management was novel and demanding, that my experience with collections, error handling, traits, and generics will support better pacing. 
+
+These upcoming subjects are critical, though a little more dry. I'm not worried too much about getting through this week's reading, though. This week of three chapters serves as a last leg before I cover enough of *the book* for the weekly reading demand to focus down to two. 
