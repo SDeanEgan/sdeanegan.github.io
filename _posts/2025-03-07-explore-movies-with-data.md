@@ -2,7 +2,7 @@
 tags: [Other Stuff]
 ---
 
-## Movie Dash App
+## Explore Movies With Data
 
 [I made this programming project to develop a visualization tool which can be used to gain broader insights about movies through the information available from IMDb.](https://github.com/SDeanEgan/movie-dash-app) The tool is intended to help users considering watch recommendations, hobbyists looking to relate their experience with broader insights, and those questioning what the potential will be for a title. A tool like this can also help its users make more objective choices when engaging with IMDb.  
 
