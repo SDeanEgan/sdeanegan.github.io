@@ -3,7 +3,7 @@ tags: [Other Stuff]
 ---
 ## Nuke Your Friends
 
-[Here is a convoluted two-player command line game I made for a Cognitive Science course a while back, based on the prisoner's dilemma.](https://github.com/SDeanEgan/globalthermonuclearwar/) 
+[Here is a convoluted two-player command line game I made for a Cognitive Science course a while back, based on the prisoner's dilemma.](https://github.com/SDeanEgan/global-thermonuclear-war/)) 
 
 <hr />
 
