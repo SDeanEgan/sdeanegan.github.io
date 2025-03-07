@@ -4,7 +4,7 @@ tags: [Other Stuff]
 
 ## Movie Dash App
 
-I made this programming project to develop a visualization tool which can be used to gain broader insights about movies through the information available from IMDB. The tool is intended to help users considering watch recommendations, hobbyists looking to relate their experience with broader insights, and those questioning what the potential will be for a title. A tool like this can also help its users make more objective choices when engaging with IMDB.  
+[I made this programming project to develop a visualization tool which can be used to gain broader insights about movies through the information available from IMDb.](https://github.com/SDeanEgan/movie-dash-app) The tool is intended to help users considering watch recommendations, hobbyists looking to relate their experience with broader insights, and those questioning what the potential will be for a title. A tool like this can also help its users make more objective choices when engaging with IMDb.  
 
 The result of the project is a functional analytics dashboard, which is served to users as a web application. It's written in the Python programming language and uses the Flask web framework as well as the pandas and Dash by Plotly libraries to process the dataset and generate visualizations. Dash itself uses the Flask web framework to generate the underlying server, making it simpler for developers to create and deploy interactive dashboards. Some data is also required from the IMDb website directly to produce Title views, which involves web scraping performed via the urllib, json, and BeautifulSoup4 libraries. These proved an invaluable portion of the overall functionality.
 
